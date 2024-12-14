@@ -1,0 +1,52 @@
+{
+    "ChrisKitty": {
+        "HP": 195,
+        "HP_tier": 3,
+        "FV": 5,
+        "FV_lvl": 0,
+        "items": {},
+        "coins": 0,
+        "days": 2,
+        "last_opened": "2024-10-31"
+    },
+    "Kitty": {
+        "HP": 200,
+        "HP_tier": 3,
+        "FV": 0,
+        "FV_lvl": 0,
+        "items": {},
+        "coins": 0,
+        "days": 1,
+        "last_opened": "2024-10-29"
+    },
+    "纳西妲": {
+        "HP": 200,
+        "HP_tier": 3,
+        "FV": 46,
+        "FV_lvl": 1,
+        "items": {
+            "提瓦特煎蛋": 0,
+            "日落果": 0,
+            "苹果": 0,
+            "烤肉排": 0,
+            "蕈兽": 1,
+            "甜甜花酿鸡": 1,
+            "满足沙拉": 0,
+            "摩拉肉": 0,
+            "汉堡": 0
+        },
+        "coins": 227,
+        "days": 2,
+        "last_opened": "2024-10-31"
+    },
+    "流浪者": {
+        "HP": 199,
+        "HP_tier": 3,
+        "FV": 1,
+        "FV_lvl": 0,
+        "items": {},
+        "coins": 0,
+        "days": 1,
+        "last_opened": "2024-10-31"
+    }
+}

@@ -1,0 +1,90 @@
+{
+	"煎鸡蛋": {
+		"image": "fregg.png",
+		"effect_HP": 5,
+		"effect_FV": 5,
+		"drop_rate": 1.0,
+		"fv_lock": 0,
+		"description": "简单的蛋白质来源。",
+		"type": "consumable",
+		"fv_reward": [1],
+		"cost": 15
+	},
+	"牛肉饼": {
+		"image": "beefpatty.png",
+		"effect_HP": 10,
+		"effect_FV": 6,
+		"drop_rate": 0.7,
+		"fv_lock": 0,
+		"description": "美味的食品，常用于制作汉堡。",
+		"type": "consumable",
+		"fv_reward": [2],
+		"cost": 15
+	},
+	"熟鳕鱼片": {
+		"image": "ccs.png",
+		"effect_HP": 7,
+		"effect_FV": 3,
+		"drop_rate": 1.0,
+		"fv_lock": 0,
+		"description": "肉质白细鲜嫩，厚实刺少，肉味甘美，清口不腻。",
+		"type": "consumable",
+		"fv_reward": [1],
+		"cost": 20
+	},
+	"熟鲑鱼片": {
+		"image": "ccs.png",
+		"effect_HP": 7,
+		"effect_FV": 3,
+		"drop_rate": 1.0,
+		"fv_lock": 0,
+		"description": "沿海渔民们的主食，俗称三文鱼，肉质比起鳕鱼更加红润、紧密和细嫩。",
+		"type": "consumable",
+		"fv_reward": [1],
+		"cost": 20
+	},
+	"馅饼酥皮": {
+		"image": "piecrust.png",
+		"effect_HP": 3,
+		"effect_FV": 1,
+		"drop_rate": 1.0,
+		"fv_lock": 0,
+		"description": "告诉我！！！你为什么吃蛋挞只吃皮？！！！",
+		"type": "consumable",
+		"fv_reward": [3],
+		"cost": 5
+	},
+	"蛋糕切片": {
+		"image": "slofcake.png",
+		"effect_HP": 3,
+		"effect_FV": 5,
+		"drop_rate": 0.5,
+		"fv_lock": 0,
+		"description": "生日快乐！孩子！",
+		"type": "consumable",
+		"fv_reward": [1],
+		"cost": 30
+	},
+	"甜浆果芝士派切片": {
+		"image": "ssbc.png",
+		"effect_HP": 3,
+		"effect_FV": 5,
+		"drop_rate": 0.5,
+		"fv_lock": 0,
+		"description": "甜浆果酱与芝士的组合，甜而不腻。一口，甜浆果在口中炸开，芝士和酥皮又添得丰富的层次感。",
+		"type": "consumable",
+		"fv_reward": [1],
+		"cost": 30
+	},
+	"巧克力派切片": {
+		"image": "socp.png",
+		"effect_HP": 3,
+		"effect_FV": 5,
+		"drop_rate": 0.5,
+		"fv_lock": 0,
+		"description": "吃多了便秘",
+		"type": "consumable",
+		"fv_reward": [2],
+		"cost": 30
+	}
+}

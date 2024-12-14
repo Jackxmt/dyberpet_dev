@@ -1,0 +1,15 @@
+{
+    "pfp":"logo.png",
+    "modName": "(Minecraft)农夫乐事食物包",
+    "intro": "献给所有Minecraft爱好者！（bushi 鸣谢：vectorwing（mod作者，纹理）MC百科（资料）",
+	"author": {
+        "name":"Jackxmt",
+        "pfp":"xmt.png",
+        "frameColor":"#FFFFFF",
+        "links":{
+            "GitHub":"Jackxmt",
+			"BiliBili":"3493136917596917"
+        },
+        "infos":"一个屑OIer("
+    }
+}
